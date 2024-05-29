@@ -1,4 +1,0 @@
-permissions:
-  reload.use:
-    description: Permite recarregar o plugin KSDUtils.
-    default: op
