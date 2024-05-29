@@ -1,0 +1,42 @@
+name: KSDUtils
+version: '${project.version}'
+main: me.kalashdev.ksdutils.KSDUtils
+api-version: '1.20'
+commands:
+  fly:
+    permission: "fly.use"
+    usage: "/fly"
+  gm:
+    permission: "gm.use"
+    usage: "/gm"
+  ajuda:
+    usage: "/ajuda"
+  luz:
+    usage: "/luz"
+  online:
+    usage: "/online"
+  dev:
+    usage: "/dev"
+  siteplugin:
+    usage: "/siteplugin"
+  aviso:
+    permission: "aviso.use"
+    usage: "/aviso"
+  anunciar:
+    permission: "anuncio.use"
+    usage: "/anunciar"
+  setspawn:
+    permission: "setspawn.use"
+    usage: "/setspawn"
+  spawn:
+    usage: "/spawn"
+  ksdplugin:
+    usage: "/ksdplugin"
+  ajudaadmin:
+    usage: "/ajudaadmin"
+  ksdreload:
+    permission: "reload.use"
+    usage: "/ksdreload"
+  divulgar:
+    permission: "divulgar.use"
+    usage: "/divulgar"
